@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Enes Tepedağ</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">I am a 4th-year student at Celal Bayar University in Manisa. I have 6 months of experience working in companies and 2 years of freelancing experience. Through university projects, I have developed teamwork skills. I also have experience in software development, design, process, and reverse engineering. I particularly excel in time management and problem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
